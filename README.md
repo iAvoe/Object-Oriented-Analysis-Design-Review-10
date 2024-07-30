@@ -1,5 +1,4 @@
 # Object-Oriented-Analysis-Design-Review-10
-
 ## Review of the SDLC
 
 ### 6-Phase SDLC index
@@ -21,15 +20,16 @@ Most projects fall on a continuum between Predictive and Adaptive
 - Requirementrs well defined
 - Low technical risk
 - Easy project management (PM)
+- Waterfall
 
 **Adaptive**
 - Uncertain requirements
 - High technical risk
 - Hard project management
+- Agile
 
 ### Predictive SDLC
-
-An earlier approach based on engineering, tyypically have sequential phases
+An earlier approach based on engineering, typically have sequential phases just like construction projects
 
 **Phases**
 - Groups of development activities
@@ -96,13 +96,13 @@ A set of tools that work together to provide a comprehensive development environ
 - Project management application
 - Drawing / graphics applicaiton
 - Word processor / text editor
-- Visual modeling tool
-- IDE
 - Reverse-engineering tool
+- Visual modeling tool
 - Code generator tool
+- IDE
 
 ### Techniques
-A collection of guidelines that help an analyst complete an activity or task. Learning techniques is the key to having expertise
+A collection of guidelines that help an analyst complete an activity or task
 - Strategic planning techniques
 - Project management techniques
 - User-interviewing techniques
@@ -117,37 +117,39 @@ A collection of guidelines that help an analyst complete an activity or task. Le
 - Architectual design techniques
 - User-interface design techniques
 
+Learning techniques is the key to having expertise
+
 -----
 
 ### Agile Development
 A guiding philosophy and set of guidelines for developing information systems in an unknown, rapidly changing environment
 
 #### Agile values
-- Respond to change over following a plan
-- Individuals & interactions over processes and tools
-- Working software over comprehensive documentation
-- customer collaboration over contract negotiation
-- Develop software as the primary goal
+- **Respond to change over following a plan**
+- **Individuals & interactions over processes and tools**
+- **Working software over comprehensive documentation**
+- **Customer collaboration over contract negotiation**
+- **Develop software as the primary goal**
   - Don’t get distracted by documentation or models
-- Enable the next effort as your secondary goal
+- **Enable the next effort as your secondary goal**
   - Be aware of next step versions or revisions
-- Minimize your modeling activity
+- **Minimize your modeling activity**
   - Only build what helps move the project forward
-- Embrace change and change incrementally
+- **Embrace change and change incrementally**
   - Take small steps that keep you on-track and that can be reversed if necessary
-- Model with a purpose
+- **Model with a purpose**
   - Model to understand
   - Model to communicate
-- Build multiple models
+- **Build multiple models**
   - Look at problems from different perspectives
-- Build high-quality models and get feedback
-- Focus on content rather than representation
+- **Build high-quality models and get feedback**
+- **Focus on content rather than representation**
   - Informal hand-drawn models are sometimes okay
   - Always focus on stakeholder needs
-- Learn from each other with open communication
-- Know your models and how to use them
-- Adapt to specific project needs
-- Maximize stakeholder ROI
+- **Learn from each other with open communication**
+- **Know your models and how to use them**
+- **Adapt to specific project needs**
+- **Maximize stakeholder ROI**
 
 -----
 
@@ -227,7 +229,7 @@ Recent years have seen some improvement, but still 1/3 to 1/2  of projects are c
 
 **Successful**: On time, within budget, on scope
 **Challenged**: Failure in one area
-**1Failed projects**: Cancelled or not used
+**Failed projects**: Cancelled or not used
 
 #### Reasons for failure
 - Undefined project management practices
@@ -299,10 +301,9 @@ A set of standard guidelines for project management IN 10 knowledge areas:
 
 -----
 
-## Quiz:
+### Quiz:
 
-### Approaches
-
+#### Approaches
 Explain the difference between *An approach to the SDLC* & *An approach to software construction*.
 - **Approach to SDLC**:
   - Whether the project methodology is predictive, adaptive or incremental
@@ -311,45 +312,39 @@ Explain the difference between *An approach to the SDLC* & *An approach to softw
   - Structured development vs. object-oriented development
   - Analysis and design models to use
 
-#### Approach - SDLC Approaches
-
+##### Approach - SDLC Approaches
 A development approach in which the complete system structure is built but with minimum functionality is called the ____.
 - Walking skeleton
 
-A project that has high technical risk should use the predictive approach.
+A project that has high technical risk should use predictive approach.
 - False
 
 Which of the following methodologies use an adaptive approach to systems development?
 - All of them
 
-An adaptive approach to a development project is best used when ____.
-- The requirements are uncertain
-
-##### SDLC Approach - Agile (Adaptive)
-
 What is the term used to describe an adaptive type of project that is both chaotic and controlled or ordered?
 - Chaordic
+
+##### SDLC Approach - Agile (Adaptive)
+An adaptive approach to a development project is best used when ____.
+- The requirements are uncertain
 
 All adaptive approaches include iterations
 - True
 
-The term "____" means that work activities are done once, then again, and yet again.
+The term ____ means that work activities are done once, then again, and yet again
 - Iteration
 
-An adaptive approach to a development project is best used when ____.
-- The requirements are uncertain
-
-A(n) ____ to the SDLC is used when the exact requirements of a system or needs of users are not well understood.
+A(n) ____ to the SDLC is used when the exact requirements of a system or needs of users are not well understood
 - Adaptive approach
 
 Using a(n) ____ to the SDLC assumes requirements and needs for the planned system are uncertain
 - Adaptive approach
 
-____ is a philosophy and set of guidelines for developing software in an unknown, rapidly changing environment.
+____ is a philosophy and set of guidelines for developing software in an unknown, rapidly changing environment
 - Agile development
 
-**Agile Modeling**
-
+###### Agile Modeling
 What is the term used to describe a guiding philosophy in which only the models that are necessary, with a valid need and the right level of detail, are created.
 - Agile modeling
 
@@ -382,19 +377,18 @@ Which of the following is a basic value of agile software development?
 - Working software over comprehensive documentation
 
 **Agile Modeling Principles**
-List at least 5 principles of Agile Modeling.
+List at least 5 principles of Agile Modeling
 - Develop software as your primary goal
-- Enable the next effort as your secondary goal.
-- Minimize your modeling activity—few and simple.
-- Embrace change, and change incrementally.
-- Model with a purpose.
-- Build multiple models.
-- Build high-quality models and get feedback rapidly.
-- Focus on content rather than representation.
-- Learn from each other with open communication.
+- Enable the next effort as your secondary goal
+- Minimize your modeling activity—few and simple
+- Embrace change, and change incrementally
+- Model with a purpose
+- Build multiple models
+- Build high-quality models and get feedback rapidly
+- Focus on content rather than representation
+- Learn from each other with open communication
 
 ##### SDLC Approach - Waterfall (Predictive)
-
 An approach to the SDLC that plans the project in advance and then progresses according to the plan is called what?
 - Predictive approach
 
@@ -411,7 +405,6 @@ A method of executing the systems development life cycle (SDLC) which assumes ri
 - Waterfall
 
 ##### SDLC Approach - Incremental
-
 An SDLC approach that completes portions of the system in small increments across iterations and integrates it into the whole is called ____.
 - Incremental approach
 
@@ -422,10 +415,14 @@ The term ____ refers to an approach that completes parts of a system in one or m
 
 #### Approach - Construction Approaches
 
-##### Construction Approach - Structured Programming
-
+##### Construction - Structured Programming
 The "____" refers to software development using structured analysis and structured design models.
 - Structured approach
+
+List the three constructs that are used for structured programming.
+1. Sequence
+2. Decision
+3. Iteration
 
 Name the programming approach where each module has one start point and one end point and uses only sequence, decision, and iteration.
 - Structured programming approach
@@ -442,13 +439,7 @@ One main principle of structured design is that program modules should be design
 An important way to measure the quality of a module in structured programming is by assessing its ____.
 - Cohesion and coupling
 
-List the three constructs that are used for structured programming.
-1. Sequence
-2. Decision
-3. Iteration
-
-##### Construction Approach - Object-Oriented Programming
-
+##### Construction - Object-Oriented Programming
 What is the term used to describe system development based on the view that a system is a set of interacting objects that work together?
 - Object-oriented approach
 
@@ -460,10 +451,9 @@ Reuse is one of the primary benefits of using what type of development methodolo
 
 -----
 
-### Activities & task
+#### Activities & task
 
-#### Activities & task - Development Phase
-
+##### Activities & task - Development Phase
 The term "____" refers to related system development activities, which are grouped into categories of project planning, analysis, design, implementation, and support.
 - Phase
 
@@ -473,8 +463,7 @@ The term "____" is used to separate out some aspect of the real world that is im
 An example of a project phase in a predictive project is ____.
 - Planning the project
 
-#### Activities & task - Support Phase
-
+##### Activities & task - Support Phase
 Which of the following is NOT one of the major activities of the support phase?
 - Training the users
 
@@ -482,16 +471,15 @@ The objective of the ____ is to keep the system running productively during the 
 - Support phase
 
 List and briefly describe the three major activities that occur during the support phase.
-1. Maintaining the system - Fixing errors and problems
-2. Enhancing the system - Adding new capabilities to the existing system
-3. Supporting the users - Providing technical help to the users, often with a help desk.
+1. Maintaining system - Fixing errors and problems
+2. Enhancing system - Adding new capabilities to the existing system
+3. Supporting users - Providing technical help to the users, often with a help desk.
 
 -----
 
-### Models, Methodologies, Tools, Techniques
+#### Models, Methodologies, Tools, Techniques
 
-#### Models
-
+##### Models
 A(n) ____ is a representation of an important aspect of the real world.
 - Model
 
@@ -505,39 +493,32 @@ A(n) ____ is used to show the interacting messages between objects that collabor
 - Class diagram
 
 A graphical diagram whish shows the hierarchical organization of modules is called a(n) ____.
-- Structure chart
+- Structure chart (SC)
 
-#### Methodologies
-
+##### Methodologies
 A(n) ____ provides guidelines to follow for completing every activity in systems development, including specific models, tools, and techniques.
 - System development methodology
 
-#### Tools
-
+##### Tools
 A tool is a software support that helps create models or other components required in the project.
 - True
 
 A set of tools that work together to provide a comprehensive development and programming environment is called a(n) ____.
 - Incremental development evironment
 
-#### Techniques
+##### Techniques
+The acronym SADT stands for what?
+- Structure Analysis and Design Technique
 
-A(n) "____" is a guideline to help an analyst complete a specific task and often includes step-by-step instructions to do something such as how to create a model.
+A(n) "____" is a guideline to help an analyst complete a specific task and often includes step-by-step instructions to do something such as how to create a model
 - Technique
 
 A hierarchical program structure consisting of a boss or control module which calls submodules is called what?
 - Top-down programming
 
-The acronym SADT stands for what?
-- Structure Analysis and Design Technique
-
-SADT stands for what?
-- Systems analysis and Design technique
-
 -----
 
-### Unified Process & Extreme Programming (UP-XP)
-
+#### Unified Process & Extreme Programming (UP-XP)
 In the UP life cycle, some working software is tested and reviewed with system users at the end of each iteration.
 - True
 
@@ -553,11 +534,11 @@ Which of the following is completed in the inception phase of the UP?
 UP disciplines are involved in each iteration, which is typically planned to span ____.
 - Four weeks
 
-In XP, each programmer is responsible for her or her own code.
+In XP, each programmer is responsible for their own code.
 - False
 
 XP recommends that system code be written before test code
-- False
+- False, Test code before System code
 
 In XP development, a(n) ____ can guide members toward a vision and help them understand the system
 - System metaphor
@@ -565,8 +546,7 @@ In XP development, a(n) ____ can guide members toward a vision and help them und
 Which of the following is NOT an XP practice?
 - No required coding standards
 
-### Scrum
-
+#### Scrum
 The purpose of a Scrum daily meeting is to find solutions for any issues that have arisen since the last meeting.
 - False
 
