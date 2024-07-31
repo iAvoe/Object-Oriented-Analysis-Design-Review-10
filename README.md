@@ -298,6 +298,94 @@ A set of standard guidelines for project management IN 10 knowledge areas:
   - Developing requests for proposals, evaluating bids, writing contracts, and then monitoring vendor performance
 - **Project Stakeholder Management**:
   - Identifying and communicating with the stakeholders of the new system
+  
+-----
+
+## Extra Note - SDLC Deliverables
+
+### Initiation
+**Identify the problem**
+**Approval of the project**
+
+### Planning
+**Project Plan**
+- System Vision Document (SVD)
+- Work breakdown structure (WBS)
+- Agile, Scrum or Waterfall
+**Construct project team members**
+- Head: Project Manager
+- Center: Quality Analyst
+- Left-Right: Business Analyst & System Analyst
+- Bottom: Designer & Developer
+
+### Analysis
+**Gather details**
+- Interviews
+- questionnaires
+- documents
+- observing current processes
+- researching vendors
+- comments and suggestion
+**Define requirements**
+- Functional requirements
+- Non-functional requirements
+- Use case diagram
+- Workflow Diagram
+**Priortize requirements**
+- Essentials
+- Importants
+- Nice to haves
+**Meeting with users completed**
+
+### Design
+**Describe the Environment**
+- *System Architecture*
+  - Server
+  - PC
+  - Mobile
+  - Database
+- *Network*
+  - Internet
+  - LAN
+  - Cloud
+- *Software*
+  - System software
+  - local application
+  - web-based application
+- *Protocols*
+  - Network protocols
+  - Data transfer methods
+- *Business Logic Layer*
+  - Technological landscape
+  - Organizational policies
+  - User demographics
+  - Permanent purchase, SaaS, or Advertisement
+**Design the Application Components**
+- Data models
+- Package diagram
+- Network Diagrams
+- Deployment Diagrams
+- Location Diagrams
+- (Design) Class diagram
+- Detailed User Interface dialogs
+- Software classes and methods
+- Fully featured database design
+- Walking skeleton of the software
+
+### Development & Deployments
+**Source Code**
+**Early Testing specifications**
+- Unit test cases
+**Working builds on the application**
+**Deployment Plan**
+**Release Notes**
+**Documentation**
+
+### Testing
+**Test Plans**
+- Testing documents / plans
+- Bug reports
+- Test results
 
 -----
 
